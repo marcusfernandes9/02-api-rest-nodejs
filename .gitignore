@@ -2,3 +2,4 @@ package-lock.json
 tmp/app.db
 node_modules
 .env
+.env.test

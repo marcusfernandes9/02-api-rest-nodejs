@@ -1,5 +1,11 @@
-package-lock.json
-tmp/app.db
+# Dependencies
 node_modules
+package-lock.json
+# Database
+tmp/*.db
+# Enviroment
 .env
 .env.test
+# Build
+build
+
